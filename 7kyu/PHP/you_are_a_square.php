@@ -5,5 +5,4 @@
     $sqr = sqrt($n);
     return ($sqr == floor($sqr));
   }
-
 ?>
