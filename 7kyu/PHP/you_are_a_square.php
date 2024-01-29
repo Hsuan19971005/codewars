@@ -6,3 +6,4 @@
     return ($sqr == floor($sqr));
   }
 ?>
+  
