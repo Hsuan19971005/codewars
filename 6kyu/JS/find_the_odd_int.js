@@ -1,0 +1,4 @@
+// Find the odd int
+function findOdd(A) {
+  return A.reduce((a, b) => a ^ b);
+}
